@@ -1,0 +1,11 @@
+bin\Debug\SPGen.exe.config
+obj\Debug\SPGen.exe
+obj\Debug\SPGen.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\Interop.SQLDMO.dll
+obj\Debug\SPGen.csproj.ResolveComReference.cache
+obj\Debug\SPGen.frmMain.resources
+obj\Debug\SPGen.csproj.GenerateResource.Cache
+bin\Debug\SPGen.exe
+bin\Debug\SPGen.pdb
+bin\Debug\Interop.SQLDMO.dll

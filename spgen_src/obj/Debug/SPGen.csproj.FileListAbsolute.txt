@@ -1,0 +1,8 @@
+d:\Project\spGen\spgen_src\bin\Debug\SPGen.exe.config
+d:\Project\spGen\spgen_src\obj\Debug\SPGen.csproj.ResolveComReference.cache
+d:\Project\spGen\spgen_src\obj\Debug\SPGen.exe
+d:\Project\spGen\spgen_src\obj\Debug\SPGen.pdb
+d:\Project\spGen\spgen_src\obj\Debug\ResolveAssemblyReference.cache
+d:\Project\spGen\spgen_src\obj\Debug\SPGen.frmMain.resources
+d:\Project\spGen\spgen_src\obj\Debug\GenerateResource-ResGen.read.1.tlog
+d:\Project\spGen\spgen_src\obj\Debug\GenerateResource-ResGen.write.1.tlog
